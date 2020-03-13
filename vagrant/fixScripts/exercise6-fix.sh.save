@@ -1,0 +1,3 @@
+#!/bin/bash
+#add fix to exercise6-fix here
+~/exercise6-fix.sh vagrant/Vagrantfile /etc/crontab /tmp/
